@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 FinAI
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -15,49 +15,167 @@
 
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+
+FinAi is an intelligent credit card recommendation system that leverages AI to provide personalized financial advice. Our platform combines the power of Google's Gemini AI with comprehensive financial data to match users with the perfect credit cards based on their lifestyle, spending patterns, and preferences.
+
+The system features:
+- Smart credit card recommendations based on user profiles and interests
+- Real-time sentiment analysis for personalized suggestions
+- Interactive AI chat assistant for financial guidance
+- Existing customer portal with transaction analysis
+- Location-aware benefits and rewards matching
+
+Built with modern web technologies and AI capabilities, FinAI aims to simplify the credit card selection process while ensuring users get the most value from their financial products. Whether you're a travel enthusiast, a dining connoisseur, or a tech-savvy gamer, our system tailors recommendations to match your unique lifestyle.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live Demo](#)  
+📹 [Video Demo](#)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+
+
+### New User Experience & Recommendation Results
+![New User Interface](artifacts/arch/Screenshot_26-3-2025_14443_localhost.jpeg)
+*Intelligent profile collection and interest selection*
+
+### Customer Portal
+![Customer Portal](artifacts/arch/screenshot-1742980486567-Existing%20User.png)
+*Secure existing customer access portal*
+
+### Chat Interface
+![Chat Assistant](artifacts/arch/Chat%201.jpeg)
+![Chat Assistant](artifacts/arch/Chat%202.jpeg)
+![Chat Assistant](artifacts/arch/Chat%203.jpeg)
+*Interactive AI-powered financial guidance system*
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+In today's complex financial landscape, choosing the right credit card can be overwhelming. Many people struggle to find cards that truly match their lifestyle and spending patterns. We noticed that:
+- Users often select cards without understanding their full benefits
+- Traditional recommendation systems lack personalization
+- Financial advice is not readily accessible in real-time
+- Existing customers need better insights into their spending patterns
+
+This inspired us to create FinAI, combining AI technology with financial expertise to provide smart, personalized credit card recommendations.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Our system offers several key features:
+- **Smart Profile Analysis**: Analyzes user profiles including age, income, location, and interests
+- **AI-Powered Recommendations**: Uses Google Gemini AI to suggest personalized credit cards
+- **Sentiment Analysis**: Processes user inputs to understand preferences and financial outlook
+- **Interactive Chat Assistant**: Provides real-time financial guidance and card recommendations
+- **Existing Customer Portal**: Allows current customers to:
+  - View their transaction history
+  - Get personalized card upgrade suggestions
+  - Access spending pattern analysis
+- **Location-Based Benefits**: Matches card benefits with user location and preferences
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We developed FinAI using a modern tech stack:
+- **Frontend**: 
+  - React.js with Material-UI for responsive design
+  - React Hook Form for form handling
+  - Framer Motion for smooth animations
+  - Axios for API communication
+
+- **Backend**:
+  - Flask server with Python
+  - Google Gemini AI for intelligent recommendations
+  - RAG (Retrieval-Augmented Generation) for enhanced responses
+  - JSON-based data storage for card portfolios and user data
+
+- **Integration**:
+  - RESTful API architecture
+  - CORS handling for secure cross-origin requests
+  - Real-time data processing and analysis
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+During development, we encountered and overcame several challenges:
+- **AI Integration**: Fine-tuning Gemini AI responses for accurate financial advice
+- **Data Management**: Structuring complex financial data for efficient retrieval
+- **User Experience**: Balancing comprehensive data collection with user-friendly interface
+- **Real-time Processing**: Optimizing response times for AI-powered recommendations
+- **Session Management**: Implementing secure and persistent chat sessions
+- **Cross-browser Compatibility**: Ensuring consistent UI/UX across different platforms
 
 ## 🏃 How to Run
-1. Clone the repository  
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+- Python (v3.8 or higher)
+- pip (Python Package Manager)
+
+### Frontend Setup
+1. Clone the repository
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/your-repo/aidhp-persona-genie.git
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   cd code/src/FrontEnd
+   npm install  
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   npm start 
    ```
+### Backed Setup 
+ 1. Go to the backend directory
+    ```sh
+    cd code/src/Backend
+    ```
+ 2. Install dependencies
+    ```sh
+    pip install -r requirements.txt
+    ```
+ 3. Run the project
+    ```sh
+    python server.py    
+
+ 4. Backend Runs on Localhost:3001
+
+ 5. Frontend Runs on Localhost:3000
+
+ 6. Open the browser and go to Open the browser and go to localhost:3000
+
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: 
+  - React.js
+  - Material-UI (MUI)
+  - React Hook Form
+  - Framer Motion
+  - Axios
+  - Zod (Form Validation)
+
+- 🔹 Backend: 
+  - Python
+  - Flask
+  - Flask-CORS
+  - Pandas
+
+- 🔹 Database: 
+  - JSON Files
+    - Credit Card Portfolio
+    - Investment Portfolio
+    - Customer Data
+    - Transaction Records
+
+- 🔹 AI/ML:
+  - Google Gemini API 2.0
+  - RAG (Retrieval-Augmented Generation)
+  - Sentiment Analysis
+
+- 🔹 Development Tools:
+  - Git
+  - npm
+  - pip
+
+
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
-
-- test
+- **Arun Kapuganty** 
+- **Pradeep Rampelli** 
+- **Haque, Mahafujul**
+- **Praveen Behara** 
+- **Shoba Warrier**
