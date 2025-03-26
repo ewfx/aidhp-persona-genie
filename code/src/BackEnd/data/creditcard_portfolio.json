@@ -1,0 +1,147 @@
+[
+  {
+    "card_name": "Wells Fargo Active Cash® Card",
+    "rewards": "Unlimited 2% cash rewards on purchases.",
+    "intro_offer": "$200 cash rewards bonus when you spend $500 in purchases in the first 3 months.",
+    "intro_apr": "0% intro APR for 12 months from account opening on purchases and qualifying balance transfers.",
+    "regular_apr": "19.24%, 24.24%, or 29.24% variable APR thereafter.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Cell phone protection up to $600 against damage or theft, subject to a $25 deductible.",
+      "Zero liability protection.",
+      "Access to My Wells Fargo Deals."
+    ],
+    "image": "data/images/wells_fargo_active_cash_card.png"
+  },
+  {
+    "card_name": "Wells Fargo Autograph Journey℠ Card",
+    "rewards": "5X points on hotels, 4X points on airlines, 3X points on other travel and restaurants, 1X points on other purchases.",
+    "intro_offer": "Earn 60,000 bonus points when you spend $4,000 in purchases within the first 3 months.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$95",
+    "additional_benefits": [
+      "$50 annual statement credit with a minimum $50 airline purchase."
+    ],
+    "image": "data/images/wells_fargo_autograph_journey_card.png"
+  },
+  {
+    "card_name": "Wells Fargo Autograph® Card",
+    "rewards": "Unlimited 3X points on restaurants, travel, gas stations, transit, popular streaming services, and phone plans; 1X points on other purchases.",
+    "intro_offer": "Earn 20,000 bonus points when you spend $1,000 in purchases within the first 3 months.",
+    "intro_apr": "0% intro APR for 12 months from account opening on purchases.",
+    "regular_apr": "19.24%, 24.24%, or 29.24% variable APR thereafter.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Cell phone protection up to $600 against damage or theft, subject to a $25 deductible.",
+      "Zero liability protection.",
+      "Access to My Wells Fargo Deals."
+    ],
+    "image": "data/images/wells_fargo_autograph_card.png"
+  },
+  {
+    "card_name": "Wells Fargo Reflect® Card",
+    "rewards": "This card does not offer rewards.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "0% intro APR for 21 months from account opening on purchases and qualifying balance transfers.",
+    "regular_apr": "17.24%, 23.74%, or 28.99% variable APR thereafter.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Cell phone protection up to $600 against damage or theft, subject to a $25 deductible.",
+      "Roadside Dispatch®.",
+      "Zero liability protection.",
+      "Access to My Wells Fargo Deals."
+    ],
+    "image": "data/images/wells_fargo_reflect_card.png"
+  },
+  {
+    "card_name": "Wells Fargo Attune® Card",
+    "rewards": "Unlimited 4% cash rewards on gym memberships, salons and spas, select sports, recreation, and entertainment, public transit, electric vehicle charging, and select thrift stores; 1% cash rewards on other purchases.",
+    "intro_offer": "Earn a $100 cash rewards bonus when you spend $500 in purchases in the first 3 months.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Cell phone protection up to $600 against damage or theft, subject to a $25 deductible.",
+      "Zero liability protection.",
+      "Access to My Wells Fargo Deals."
+    ],
+    "image": "data/images/wells_fargo_attune_card.png"
+  },
+  {
+    "card_name": "Bilt Mastercard®",
+    "rewards": "1X points on rent payments without the transaction fee, up to 100,000 points each calendar year; 2X points on travel; 3X points on dining; 1X points on other purchases.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Rent Day: Earn double points on the first of each month (excluding rent, up to 1,000 bonus points).",
+      "Cell phone protection up to $800 against damage or theft, subject to a $25 deductible.",
+      "Trip cancellation and interruption protection."
+    ],
+    "image": "data/images/bilt_mastercard.png"
+  },
+  {
+    "card_name": "One Key™ Card",
+    "rewards": "Earn OneKeyCash™ to use on Expedia, Hotels.com, and Vrbo.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Unlock One Key™ Gold status when you spend $15,000 per calendar year."
+    ],
+    "image": "data/images/one_key_card.png"
+  },
+  {
+    "card_name": "One Key+™ Card",
+    "rewards": "Earn OneKeyCash™ to use on Expedia, Hotels.com, and Vrbo.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$95",
+    "additional_benefits": [
+      "Unlock One Key™ Platinum status when you spend $35,000 per calendar year."
+    ],
+    "image": "data/images/one_key_plus_card.png"
+  },
+  {
+    "card_name": "Choice Privileges® Mastercard®",
+    "rewards": "5X points on purchases at eligible Choice Hotels.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Automatic Gold Elite status."
+    ],
+    "image": "data/images/choice_privileges_mastercard.png"
+  },
+  {
+    "card_name": "Choice Privileges® Select Mastercard®",
+    "rewards": "10X points on purchases at eligible Choice Hotels.",
+    "intro_offer": "Not specified.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$95",
+    "additional_benefits": [
+      "Automatic Platinum Elite status."
+    ],
+    "image": "data/images/choice_privileges_select_mastercard.png"
+  },
+  {
+    "card_name": "Signify Business Cash® Card",
+    "rewards": "Earn unlimited 2% cash rewards on purchases.",
+    "intro_offer": "Earn a $500 cash rewards bonus when you spend $5,000 in purchases in the first 3 months.",
+    "intro_apr": "Not specified.",
+    "regular_apr": "Variable APR; specific rates not provided.",
+    "annual_fee": "$0",
+    "additional_benefits": [
+      "Zero liability protection.",
+      "Employee cards at no additional cost.",
+      "Expense management tools."
+    ],
+    "image": "data/images/signify_businesscash_card.png"
+  }
+]

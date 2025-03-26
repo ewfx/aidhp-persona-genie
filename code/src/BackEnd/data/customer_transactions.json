@@ -1,0 +1,169 @@
+{
+  "transactions": [
+    {
+      "customerId": "CUS000001",
+      "transactionId": "TXN001001",
+      "type": "Shopping",
+      "category": "Electronics",
+      "amount": 899.99,
+      "date": "2024-02-15",
+      "paymentMode": "Credit Card",
+      "merchant": "Best Buy",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000001",
+      "transactionId": "TXN001002",
+      "type": "Shopping",
+      "category": "Apparel",
+      "amount": 245.50,
+      "date": "2024-02-10",
+      "paymentMode": "Credit Card",
+      "merchant": "Nike",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000002",
+      "transactionId": "TXN002001",
+      "type": "Travel",
+      "category": "Flight Booking",
+      "amount": 758.00,
+      "date": "2024-02-18",
+      "paymentMode": "Credit Card",
+      "merchant": "United Airlines",
+      "riskProfile": "Medium"
+    },
+    {
+      "customerId": "CUS000002",
+      "transactionId": "TXN002002",
+      "type": "Travel",
+      "category": "Hotel",
+      "amount": 1200.00,
+      "date": "2024-02-19",
+      "paymentMode": "Credit Card",
+      "merchant": "Marriott Hotels",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000003",
+      "transactionId": "TXN003001",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 85.75,
+      "date": "2024-02-20",
+      "paymentMode": "Credit Card",
+      "merchant": "Olive Garden",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000003",
+      "transactionId": "TXN003002",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 45.99,
+      "date": "2024-02-17",
+      "paymentMode": "Digital Wallet",
+      "merchant": "DoorDash",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000004",
+      "transactionId": "TXN004001",
+      "type": "Travel",
+      "category": "Car Rental",
+      "amount": 325.00,
+      "date": "2024-02-16",
+      "paymentMode": "Credit Card",
+      "merchant": "Enterprise",
+      "riskProfile": "Medium"
+    },
+    {
+      "customerId": "CUS000005",
+      "transactionId": "TXN005001",
+      "type": "Entertainment",
+      "category": "Movies",
+      "amount": 48.00,
+      "date": "2024-02-14",
+      "paymentMode": "Credit Card",
+      "merchant": "AMC Theaters",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000006",
+      "transactionId": "TXN006001",
+      "type": "Shopping",
+      "category": "Home Improvement",
+      "amount": 1500.00,
+      "date": "2024-02-13",
+      "paymentMode": "Credit Card",
+      "merchant": "Home Depot",
+      "riskProfile": "Medium"
+    },
+    {
+      "customerId": "CUS000007",
+      "transactionId": "TXN007001",
+      "type": "Travel",
+      "category": "Flight Booking",
+      "amount": 1250.00,
+      "date": "2024-02-12",
+      "paymentMode": "Credit Card",
+      "merchant": "Delta Airlines",
+      "riskProfile": "Medium"
+    },
+    {
+      "customerId": "CUS000008",
+      "transactionId": "TXN008001",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 156.00,
+      "date": "2024-02-11",
+      "paymentMode": "Credit Card",
+      "merchant": "The Cheesecake Factory",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000009",
+      "transactionId": "TXN009001",
+      "type": "Shopping",
+      "category": "Electronics",
+      "amount": 2499.99,
+      "date": "2024-02-10",
+      "paymentMode": "Credit Card",
+      "merchant": "Apple Store",
+      "riskProfile": "High"
+    },
+    {
+      "customerId": "CUS000010",
+      "transactionId": "TXN010001",
+      "type": "Travel",
+      "category": "Hotel",
+      "amount": 895.00,
+      "date": "2024-02-09",
+      "paymentMode": "Credit Card",
+      "merchant": "Hilton Hotels",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000001",
+      "transactionId": "TXN001003",
+      "type": "Shopping",
+      "category": "Groceries",
+      "amount": 189.75,
+      "date": "2024-02-08",
+      "paymentMode": "Credit Card",
+      "merchant": "Whole Foods",
+      "riskProfile": "Low"
+    },
+    {
+      "customerId": "CUS000002",
+      "transactionId": "TXN002003",
+      "type": "Travel",
+      "category": "Transportation",
+      "amount": 65.00,
+      "date": "2024-02-07",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber",
+      "riskProfile": "Low"
+    }
+  ]
+}

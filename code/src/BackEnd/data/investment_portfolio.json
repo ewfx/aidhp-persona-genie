@@ -1,0 +1,135 @@
+{
+  "investment_plans": [
+      {
+          "name": "Self-Directed Online Investing",
+          "description": "Allows investors to manage their own portfolios through the WellsTrade\u00ae platform, offering access to a wide range of investment products and tools.",
+          "subproducts": [
+              {
+                  "name": "Stocks",
+                  "description": "Invest in shares of individual companies, offering potential for capital appreciation and dividends.",
+                  "examples": [
+                      {
+                          "company": "Apple Inc.",
+                          "ticker": "AAPL",
+                          "description": "A leading technology company specializing in consumer electronics."
+                      },
+                      {
+                          "company": "The Coca-Cola Company",
+                          "ticker": "KO",
+                          "description": "A multinational beverage corporation known for its flagship product, Coca-Cola."
+                      }
+                  ]
+              },
+              {
+                  "name": "Bonds",
+                  "description": "Purchase debt securities issued by corporations or governments, offering regular interest payments and return of principal at maturity.",
+                  "examples": [
+                      {
+                          "type": "U.S. Treasury Bonds",
+                          "description": "Government-issued securities considered low-risk, providing fixed interest payments."
+                      },
+                      {
+                          "type": "Corporate Bonds",
+                          "description": "Debt securities issued by companies like AT&T to raise capital, typically offering higher yields than government bonds."
+                      }
+                  ]
+              },
+              {
+                  "name": "Mutual Funds",
+                  "description": "Invest in professionally managed portfolios that pool funds from multiple investors to purchase a diversified mix of securities.",
+                  "categories": [
+                      {
+                          "risk_level": "Low Risk",
+                          "funds": [
+                              {
+                                  "fund": "Wells Fargo Government Money Market Fund",
+                                  "description": "Seeks income with capital preservation through high-quality U.S. government securities.",
+                                  "risk_appetite": "Low"
+                              },
+                              {
+                                  "fund": "Wells Fargo Ultra Short-Term Income Fund",
+                                  "description": "Provides income with capital preservation through short-duration fixed-income securities.",
+                                  "risk_appetite": "Low"
+                              }
+                          ]
+                      },
+                      {
+                          "risk_level": "Moderate Risk",
+                          "funds": [
+                              {
+                                  "fund": "Wells Fargo Core Bond Fund",
+                                  "description": "Seeks total return through investment-grade debt securities.",
+                                  "risk_appetite": "Moderate"
+                              },
+                              {
+                                  "fund": "Wells Fargo Diversified Equity Fund",
+                                  "description": "Invests in a mix of equities for long-term growth.",
+                                  "risk_appetite": "Moderate"
+                              }
+                          ]
+                      },
+                      {
+                          "risk_level": "High Risk",
+                          "funds": [
+                              {
+                                  "fund": "Wells Fargo Emerging Markets Equity Fund",
+                                  "description": "Focuses on emerging markets for long-term capital appreciation.",
+                                  "risk_appetite": "High"
+                              },
+                              {
+                                  "fund": "Wells Fargo Small Cap Growth Fund",
+                                  "description": "Invests in small-cap companies with high growth potential.",
+                                  "risk_appetite": "High"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Automated Investing",
+          "description": "Offers a technology-driven investment approach through the Intuitive Investor\u00ae account, providing automated portfolio management aligned with individual goals and risk tolerance.",
+          "subproducts": [
+              {
+                  "name": "Diversified Portfolios",
+                  "description": "Pre-constructed portfolios diversified across various asset classes, tailored to match the investor's risk profile and financial objectives.",
+                  "examples": [
+                      {
+                          "portfolio": "Conservative Portfolio",
+                          "description": "Focuses on capital preservation with a higher allocation to fixed-income securities."
+                      },
+                      {
+                          "portfolio": "Aggressive Portfolio",
+                          "description": "Aims for higher growth potential with a greater allocation to equities."
+                      }
+                  ]
+              },
+              {
+                  "name": "Automatic Rebalancing",
+                  "description": "Regular adjustments to the portfolio to maintain the desired asset allocation, ensuring alignment with the investor's investment strategy over time.",
+                  "examples": [
+                      {
+                          "type": "Threshold-Based Rebalancing",
+                          "description": "Rebalances the portfolio when asset allocations deviate beyond predetermined thresholds."
+                      },
+                      {
+                          "type": "Time-Based Rebalancing",
+                          "description": "Rebalances the portfolio at regular intervals, such as quarterly or annually."
+                      }
+                  ]
+              },
+              {
+                  "name": "Tax-Loss Harvesting",
+                  "description": "A strategy that involves selling securities at a loss to offset capital gains tax liabilities, thereby enhancing after-tax returns.",
+                  "examples": [
+                      {
+                          "scenario": "Offsetting Capital Gains",
+                          "description": "Selling underperforming assets to offset gains realized from other investments, reducing overall tax liability."
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}

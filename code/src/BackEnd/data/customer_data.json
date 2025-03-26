@@ -1,0 +1,94 @@
+{
+  "customers": [
+    {
+      "name": "John Smith",
+      "customerId": "CUS000001",
+      "accountNumber": "4532789156421234",
+      "creditCardNumber": "4532-7891-5642-1234",
+      "cardName": "Wells Fargo Active Cash® Card",
+      "location": "New York, NY",
+      "income": "$85,000"
+    },
+    {
+      "name": "Emma Wilson",
+      "customerId": "CUS000002",
+      "accountNumber": "5124567890123456",
+      "creditCardNumber": "5124-5678-9012-3456",
+      "cardName": "Wells Fargo Autograph℠ Card",
+      "location": "Los Angeles, CA",
+      "income": "$92,000"
+    },
+    {
+      "name": "Michael Brown",
+      "customerId": "CUS000003",
+      "accountNumber": "3715902345678901",
+      "creditCardNumber": "3715-9023-4567-8901",
+      "cardName": "Wells Fargo Reflect® Card",
+      "location": "Chicago, IL",
+      "income": "$78,000"
+    },
+    {
+      "name": "Sarah Davis",
+      "customerId": "CUS000004",
+      "accountNumber": "6011234567890123",
+      "creditCardNumber": "6011-2345-6789-0123",
+      "cardName": "Choice Privileges® Mastercard®",
+      "location": "Houston, TX",
+      "income": "$115,000"
+    },
+    {
+      "name": "James Johnson",
+      "customerId": "CUS000005",
+      "accountNumber": "4916789012345678",
+      "creditCardNumber": "4916-7890-1234-5678",
+      "cardName": "Hotels.com® Rewards Visa® Credit Card",
+      "location": "Miami, FL",
+      "income": "$95,000"
+    },
+    {
+      "name": "Lisa Anderson",
+      "customerId": "CUS000006",
+      "accountNumber": "5587123456789012",
+      "creditCardNumber": "5587-1234-5678-9012",
+      "cardName": "Wells Fargo Active Cash® Card",
+      "location": "Seattle, WA",
+      "income": "$125,000"
+    },
+    {
+      "name": "Robert Taylor",
+      "customerId": "CUS000007",
+      "accountNumber": "3724567890123456",
+      "creditCardNumber": "3724-5678-9012-3456",
+      "cardName": "Wells Fargo Autograph℠ Card",
+      "location": "Boston, MA",
+      "income": "$145,000"
+    },
+    {
+      "name": "Jennifer Martin",
+      "customerId": "CUS000008",
+      "accountNumber": "4485901234567890",
+      "creditCardNumber": "4485-9012-3456-7890",
+      "cardName": "Choice Privileges® Mastercard®",
+      "location": "Denver, CO",
+      "income": "$88,000"
+    },
+    {
+      "name": "William White",
+      "customerId": "CUS000009",
+      "accountNumber": "5201345678901234",
+      "creditCardNumber": "5201-3456-7890-1234",
+      "cardName": "Wells Fargo Reflect® Card",
+      "location": "San Francisco, CA",
+      "income": "$165,000"
+    },
+    {
+      "name": "Elizabeth Lee",
+      "customerId": "CUS000010",
+      "accountNumber": "3789012345678901",
+      "creditCardNumber": "3789-0123-4567-8901",
+      "cardName": "Hotels.com® Rewards Visa® Credit Card",
+      "location": "Austin, TX",
+      "income": "$105,000"
+    }
+  ]
+}

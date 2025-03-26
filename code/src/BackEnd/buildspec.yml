@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.9
+    commands:
+      - echo "Installing dependencies..."
+      - pip install -r requirements.txt
+  build:
+    commands:
+      - echo "Starting Flask application..."
+      - python server.py  # Runs the app in the background
+  post_build:
+    commands:
+      - echo "Deployment completed."
+artifacts:
+  files:
+    - '**/*'
+=======
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.9
+    commands:
+      - echo "Installing dependencies..."
+      - pip install -r requirements.txt
+  build:
+    commands:
+      - echo "Starting Flask application..."
+      - python server.py  # Runs the app in the background
+  post_build:
+    commands:
+      - echo "Deployment completed."
+artifacts:
+  files:
+    - '**/*'
+>>>>>>> d60e6343781646a51b89277c01fe02a9e99e6d5f

@@ -41,6 +41,8 @@ Built with modern web technologies and AI capabilities, FinAI aims to simplify t
 ### Customer Portal
 ![Customer Portal](artifacts/arch/screenshot-1742980486567-Existing%20User.png)
 *Secure existing customer access portal*
+### Customer Portal
+![Customer Portal](artifacts/arch/Screenshot_26-3-2025_144530_Existing%20User.jpeg)
 
 ### Chat Interface
 ![Chat Assistant](artifacts/arch/Chat%201.jpeg)
@@ -108,7 +110,7 @@ During development, we encountered and overcame several challenges:
 ### Frontend Setup
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-repo/aidhp-persona-genie.git
+   git clone https://github.com/ewfx/aidhp-persona-genie.git
    ```
 2. Install dependencies  
    ```sh

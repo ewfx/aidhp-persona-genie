@@ -1,0 +1,454 @@
+{
+  "transactions": [
+    {
+      "transactionId": "TXN011001",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 125.50,
+      "date": "2024-02-25",
+      "paymentMode": "Credit Card",
+      "merchant": "The Cheesecake Factory",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011002",
+      "type": "Dining",
+      "category": "Fine Dining",
+      "amount": 285.75,
+      "date": "2024-02-23",
+      "paymentMode": "Credit Card",
+      "merchant": "Ruth's Chris Steak House",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011003",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 45.99,
+      "date": "2024-02-21",
+      "paymentMode": "Digital Wallet",
+      "merchant": "DoorDash",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011004",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 89.99,
+      "date": "2024-02-19",
+      "paymentMode": "Credit Card",
+      "merchant": "Olive Garden",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011005",
+      "type": "Shopping",
+      "category": "Groceries",
+      "amount": 156.78,
+      "date": "2024-02-18",
+      "paymentMode": "Credit Card",
+      "merchant": "Whole Foods",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011006",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 75.50,
+      "date": "2024-02-16",
+      "paymentMode": "Credit Card",
+      "merchant": "P.F. Chang's",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011007",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 35.99,
+      "date": "2024-02-14",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber Eats",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011008",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 145.75,
+      "date": "2024-02-12",
+      "paymentMode": "Credit Card",
+      "merchant": "Capital Grille",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011009",
+      "type": "Entertainment",
+      "category": "Movies",
+      "amount": 45.00,
+      "date": "2024-02-11",
+      "paymentMode": "Credit Card",
+      "merchant": "AMC Theaters",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011010",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 95.25,
+      "date": "2024-02-09",
+      "paymentMode": "Credit Card",
+      "merchant": "Texas Roadhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011011",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 68.50,
+      "date": "2024-01-28",
+      "paymentMode": "Credit Card",
+      "merchant": "Red Lobster",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011012",
+      "type": "Shopping",
+      "category": "Electronics",
+      "amount": 299.99,
+      "date": "2024-01-26",
+      "paymentMode": "Credit Card",
+      "merchant": "Best Buy",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011013",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 115.80,
+      "date": "2024-01-24",
+      "paymentMode": "Credit Card",
+      "merchant": "Seasons 52",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011014",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 42.99,
+      "date": "2024-01-22",
+      "paymentMode": "Digital Wallet",
+      "merchant": "GrubHub",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011015",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 165.25,
+      "date": "2024-01-20",
+      "paymentMode": "Credit Card",
+      "merchant": "Morton's Steakhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011016",
+      "type": "Travel",
+      "category": "Transportation",
+      "amount": 45.50,
+      "date": "2024-01-18",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011017",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 82.75,
+      "date": "2024-01-16",
+      "paymentMode": "Credit Card",
+      "merchant": "Outback Steakhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011018",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 135.50,
+      "date": "2024-01-14",
+      "paymentMode": "Credit Card",
+      "merchant": "Fogo de Chao",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011019",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 38.99,
+      "date": "2024-01-12",
+      "paymentMode": "Digital Wallet",
+      "merchant": "DoorDash",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011020",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 92.75,
+      "date": "2024-01-10",
+      "paymentMode": "Credit Card",
+      "merchant": "Yard House",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011021",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 78.50,
+      "date": "2023-12-28",
+      "paymentMode": "Credit Card",
+      "merchant": "Olive Garden",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011022",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 32.99,
+      "date": "2023-12-26",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber Eats",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011023",
+      "type": "Dining",
+      "category": "Fine Dining",
+      "amount": 245.75,
+      "date": "2023-12-24",
+      "paymentMode": "Credit Card",
+      "merchant": "Capital Grille",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011024",
+      "type": "Shopping",
+      "category": "Groceries",
+      "amount": 167.89,
+      "date": "2023-12-22",
+      "paymentMode": "Credit Card",
+      "merchant": "Whole Foods",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011025",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 95.50,
+      "date": "2023-12-20",
+      "paymentMode": "Credit Card",
+      "merchant": "P.F. Chang's",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011026",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 41.99,
+      "date": "2023-12-18",
+      "paymentMode": "Digital Wallet",
+      "merchant": "DoorDash",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011027",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 125.75,
+      "date": "2023-12-16",
+      "paymentMode": "Credit Card",
+      "merchant": "Cheesecake Factory",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011028",
+      "type": "Entertainment",
+      "category": "Movies",
+      "amount": 42.00,
+      "date": "2023-12-14",
+      "paymentMode": "Credit Card",
+      "merchant": "AMC Theaters",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011029",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 88.25,
+      "date": "2023-12-12",
+      "paymentMode": "Credit Card",
+      "merchant": "Texas Roadhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011030",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 72.50,
+      "date": "2023-12-10",
+      "paymentMode": "Credit Card",
+      "merchant": "Red Lobster",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011031",
+      "type": "Shopping",
+      "category": "Electronics",
+      "amount": 499.99,
+      "date": "2023-12-08",
+      "paymentMode": "Credit Card",
+      "merchant": "Best Buy",
+      "riskProfile": "Medium"
+    },
+    {
+      "transactionId": "TXN011032",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 155.80,
+      "date": "2023-12-06",
+      "paymentMode": "Credit Card",
+      "merchant": "Morton's Steakhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011033",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 36.99,
+      "date": "2023-12-04",
+      "paymentMode": "Digital Wallet",
+      "merchant": "GrubHub",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011034",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 92.25,
+      "date": "2023-12-02",
+      "paymentMode": "Credit Card",
+      "merchant": "Outback Steakhouse",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011035",
+      "type": "Travel",
+      "category": "Transportation",
+      "amount": 38.50,
+      "date": "2023-12-01",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011036",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 145.75,
+      "date": "2023-12-15",
+      "paymentMode": "Credit Card",
+      "merchant": "Fogo de Chao",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011037",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 34.99,
+      "date": "2023-12-13",
+      "paymentMode": "Digital Wallet",
+      "merchant": "DoorDash",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011038",
+      "type": "Dining",
+      "category": "Restaurant",
+      "amount": 86.75,
+      "date": "2023-12-11",
+      "paymentMode": "Credit Card",
+      "merchant": "Yard House",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011039",
+      "type": "Dining",
+      "category": "Fine Dining",
+      "amount": 275.50,
+      "date": "2023-12-09",
+      "paymentMode": "Credit Card",
+      "merchant": "Ruth's Chris Steak House",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011040",
+      "type": "Food Delivery",
+      "category": "Online Food",
+      "amount": 39.99,
+      "date": "2023-12-07",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Uber Eats",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011041",
+      "type": "Entertainment",
+      "category": "Gaming",
+      "amount": 59.99,
+      "date": "2024-02-20",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Steam",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011042",
+      "type": "Entertainment",
+      "category": "Movies",
+      "amount": 52.50,
+      "date": "2024-01-15",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Fandango",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011043",
+      "type": "Entertainment",
+      "category": "Gaming",
+      "amount": 69.99,
+      "date": "2024-01-05",
+      "paymentMode": "PayPal",
+      "merchant": "PlayStation Store",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011044",
+      "type": "Entertainment",
+      "category": "Movies",
+      "amount": 29.99,
+      "date": "2023-12-25",
+      "paymentMode": "Digital Wallet",
+      "merchant": "Disney+",
+      "riskProfile": "Low"
+    },
+    {
+      "transactionId": "TXN011045",
+      "type": "Entertainment",
+      "category": "Gaming",
+      "amount": 14.99,
+      "date": "2023-12-03",
+      "paymentMode": "PayPal",
+      "merchant": "Xbox Game Pass",
+      "riskProfile": "Low"
+    }
+  ]
+}
