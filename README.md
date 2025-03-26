@@ -28,8 +28,8 @@ The system features:
 Built with modern web technologies and AI capabilities, FinAI aims to simplify the credit card selection process while ensuring users get the most value from their financial products. Whether you're a travel enthusiast, a dining connoisseur, or a tech-savvy gamer, our system tailors recommendations to match your unique lifestyle.
 
 ## 🎥 Demo
-🔗 [Live Demo](#)  
-📹 [Video Demo](#)  
+🔗 [Live Demo](artifacts/demo/Fin%20Ai%20Demo.mp4)  
+📹 [Video Demo](artifacts/demo/Fin%20Ai%20Demo.mp4)   
 🖼️ Screenshots:
 
 
