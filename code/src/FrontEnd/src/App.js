@@ -112,7 +112,7 @@ function App() {
                       letterSpacing: '0.5px',
                       color: '#FFFFFF'
                     }}>
-                      Credit Card Recommendations
+                      FinAI
                     </Typography>
                     <Stack direction="row" spacing={2}>
                       <Button 

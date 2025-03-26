@@ -16,7 +16,7 @@
 
 ## 🎯 Introduction
 
-FinAi is an intelligent credit card recommendation system that leverages AI to provide personalized financial advice. Our platform combines the power of Google's Gemini AI with comprehensive financial data to match users with the perfect credit cards based on their lifestyle, spending patterns, and preferences.
+FinAI is an intelligent credit card recommendation system that leverages AI to provide personalized financial advice. Our platform combines the power of Google's Gemini AI with comprehensive financial data to match users with the perfect credit cards based on their lifestyle, spending patterns, and preferences.
 
 The system features:
 - Smart credit card recommendations based on user profiles and interests
