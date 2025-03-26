@@ -65,6 +65,10 @@ Our system offers several key features:
 - **AI-Powered Recommendations**: Uses Google Gemini AI to suggest personalized credit cards
 - **Sentiment Analysis**: Processes user inputs to understand preferences and financial outlook
 - **Interactive Chat Assistant**: Provides real-time financial guidance and card recommendations
+  - Voice-to-Text Support
+  - Natural Language Processing
+  - Multi-language Support
+  - Real-time Voice Recognition
 - **Existing Customer Portal**: Allows current customers to:
   - View their transaction history
   - Get personalized card upgrade suggestions
@@ -78,12 +82,14 @@ We developed FinAI using a modern tech stack:
   - React Hook Form for form handling
   - Framer Motion for smooth animations
   - Axios for API communication
+  - Web Speech API for voice recognition
 
 - **Backend**:
   - Flask server with Python
   - Google Gemini AI for intelligent recommendations
   - RAG (Retrieval-Augmented Generation) for enhanced responses
   - JSON-based data storage for card portfolios and user data
+  - Speech-to-Text processing
 
 - **Integration**:
   - RESTful API architecture

@@ -5,7 +5,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 125.50,
-        "date": "2024-02-25",
+        "date": "2025-03-25",
         "paymentMode": "Credit Card",
         "merchant": "The Cheesecake Factory",
         "riskProfile": "Low"
@@ -15,7 +15,7 @@
         "type": "Dining",
         "category": "Fine Dining",
         "amount": 285.75,
-        "date": "2024-02-23",
+        "date": "2025-03-23",
         "paymentMode": "Credit Card",
         "merchant": "Ruth's Chris Steak House",
         "riskProfile": "Low"
@@ -25,7 +25,7 @@
         "type": "Food Delivery",
         "category": "Online Food",
         "amount": 45.99,
-        "date": "2024-02-21",
+        "date": "2025-03-21",
         "paymentMode": "Digital Wallet",
         "merchant": "DoorDash",
         "riskProfile": "Low"
@@ -95,7 +95,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 95.25,
-        "date": "2024-02-09",
+        "date": "2025-02-09",
         "paymentMode": "Credit Card",
         "merchant": "Texas Roadhouse",
         "riskProfile": "Low"
@@ -105,7 +105,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 68.50,
-        "date": "2024-01-28",
+        "date": "2025-01-28",
         "paymentMode": "Credit Card",
         "merchant": "Red Lobster",
         "riskProfile": "Low"
@@ -175,7 +175,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 135.50,
-        "date": "2024-01-14",
+        "date": "2025-01-14",
         "paymentMode": "Credit Card",
         "merchant": "Fogo de Chao",
         "riskProfile": "Low"
@@ -185,7 +185,7 @@
         "type": "Food Delivery",
         "category": "Online Food",
         "amount": 38.99,
-        "date": "2024-01-12",
+        "date": "20245-01-12",
         "paymentMode": "Digital Wallet",
         "merchant": "DoorDash",
         "riskProfile": "Low"
@@ -255,7 +255,7 @@
         "type": "Food Delivery",
         "category": "Online Food",
         "amount": 41.99,
-        "date": "2023-12-18",
+        "date": "2024-12-18",
         "paymentMode": "Digital Wallet",
         "merchant": "DoorDash",
         "riskProfile": "Low"
@@ -265,7 +265,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 125.75,
-        "date": "2023-12-16",
+        "date": "2024-12-16",
         "paymentMode": "Credit Card",
         "merchant": "Cheesecake Factory",
         "riskProfile": "Low"
@@ -275,7 +275,7 @@
         "type": "Entertainment",
         "category": "Movies",
         "amount": 42.00,
-        "date": "2023-12-14",
+        "date": "2024-12-14",
         "paymentMode": "Credit Card",
         "merchant": "AMC Theaters",
         "riskProfile": "Low"
@@ -285,7 +285,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 88.25,
-        "date": "2023-12-12",
+        "date": "2024-12-12",
         "paymentMode": "Credit Card",
         "merchant": "Texas Roadhouse",
         "riskProfile": "Low"
@@ -295,7 +295,7 @@
         "type": "Dining",
         "category": "Restaurant",
         "amount": 72.50,
-        "date": "2023-12-10",
+        "date": "2024-12-10",
         "paymentMode": "Credit Card",
         "merchant": "Red Lobster",
         "riskProfile": "Low"
@@ -305,7 +305,7 @@
         "type": "Shopping",
         "category": "Electronics",
         "amount": 499.99,
-        "date": "2023-12-08",
+        "date": "2024-12-08",
         "paymentMode": "Credit Card",
         "merchant": "Best Buy",
         "riskProfile": "Medium"
@@ -345,7 +345,7 @@
         "type": "Travel",
         "category": "Transportation",
         "amount": 38.50,
-        "date": "2023-12-01",
+        "date": "2024-12-01",
         "paymentMode": "Digital Wallet",
         "merchant": "Uber",
         "riskProfile": "Low"
@@ -405,7 +405,7 @@
         "type": "Entertainment",
         "category": "Gaming",
         "amount": 59.99,
-        "date": "2024-02-20",
+        "date": "2025-03-19",
         "paymentMode": "Digital Wallet",
         "merchant": "Steam",
         "riskProfile": "Low"
